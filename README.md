@@ -1,4 +1,7 @@
 **Technologies Used - HTML, CSS, REACT.JS, NODE.JS, TYPESCRIPT**
+
+
+
 Objective:
 
 Build a real-time chat application with the following features:
